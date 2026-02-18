@@ -42,12 +42,12 @@
 
 ## Linked List
 
-- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+-  :white_check_mark: [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+-  :white_check_mark: [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+-  :white_check_mark: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+-  :white_check_mark: [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+-  :white_check_mark:[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+-  :white_check_mark: [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
