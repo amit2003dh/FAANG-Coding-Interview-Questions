@@ -22,11 +22,11 @@
 
 ## Binary
 
-- [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
-- [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- :white_check_mark: [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+- :white_check_mark:[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- :white_check_mark: [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- :white_check_mark: [Missing Number](https://leetcode.com/problems/missing-number/)
+- :white_check_mark: [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ---
 
